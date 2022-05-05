@@ -1,4 +1,4 @@
-# paint-backend
+# Paint Backend
 Implemented using Spring Boot framework
 
 [lab 3 report prog 2.pdf](https://github.com/AliELSharawy/paint-backend/files/8628260/lab.3.report.prog.2.pdf)
