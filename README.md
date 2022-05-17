@@ -1,8 +1,6 @@
 # Paint Backend
 Implemented using Spring Boot framework
 
-[lab 3 report prog 2.pdf](https://github.com/AliELSharawy/paint-backend/files/8628260/lab.3.report.prog.2.pdf)
-
 Paint Web Application provides:
  
  1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)\
