@@ -9,20 +9,20 @@
     Louay Magdy
     
 ## Design Patterns used:
-   Delegation Pattern:
+     Delegation Pattern:
         - Relation between controller and the interface IPaintService
         - Relation between controller and the interface Shape
         - Relation between controller and Point Class
         - Relation between all the shapes classes and Point Class
    
-   Interface pattern:
+      Interface pattern:
         - Relation between controller and the PaintService
         - Relation between controller and shapes classes
     
-   Prototype Pattern:
+      Prototype Pattern:
         - All shapes classes together with the interface implement cloneable interface to be cloned (in deep copy)
    
-##Paint Web Application provides:
+## Paint Web Application provides:
  1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)\
  2- Undo, Redo and Save options\
  3- Copy, Move, Delete, Resize shapes
