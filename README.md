@@ -23,8 +23,8 @@
         - All shapes classes together with the interface implement cloneable interface to be cloned (in deep copy)
    
 ## Paint Web Application provides:
-    1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)\
-    2- Undo, Redo and Save options\
+    1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)
+    2- Undo, Redo and Save options
     3- Copy, Move, Delete, Resize shapes
  
 ## Design Decisions made:
